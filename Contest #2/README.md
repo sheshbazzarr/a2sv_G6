@@ -168,14 +168,36 @@ Welcome to **Contest #2**! This contest features a set of problems focusing on *
 </details>
 ---
  
+## Contest Summary  
+This contest features **5 problems** that test a variety of programming and problem-solving skills. Below is a breakdown of the focus areas and key takeaways:
 
----
+### Focus Areas:
+1. **String Manipulation (Problems A, B, C, E):**  
+   - Problems A, B, C, and E heavily involve string operations, such as checking substrings, encoding/decoding, and efficient updates.  
+   - These problems require a strong understanding of string traversal, pattern matching, and handling edge cases.
 
-## How to Participate  
-1. Visit the problem links above to access the contest problems.  
-2. Solve the problems and submit your solutions on the platform.  
-3. Share your feedback or solutions in the repository's discussion section.
+2. **Number Theory (Problem D):**  
+   - Problem D focuses on finding numbers with specific properties, such as divisibility and digit constraints.  
+   - It tests your ability to work with numbers and apply mathematical reasoning.
 
----
+3. **Efficient Query Handling (Problem E):**  
+   - Problem E involves handling multiple updates and queries on a string efficiently.  
+   - It emphasizes the importance of optimizing solutions to handle large inputs within time constraints.
+
+### Key Takeaways:
+- **Fundamentals Matter:** A solid grasp of string manipulation and number theory is essential for solving these problems.  
+- **Optimization is Key:** Problems like E require efficient algorithms to handle large inputs and multiple queries.  
+- **Creative Problem-Solving:** Some problems (e.g., C) require thinking outside the box to reverse-engineer encoded strings.  
+- **Edge Cases:** Always consider edge cases, such as small inputs or specific patterns, to ensure your solution is robust.
+
+### Difficulty Level:
+- The problems are designed to be **approachable yet challenging**, making them suitable for participants with varying skill levels.  
+- While the problems are not extremely difficult, they require careful implementation and attention to detail.
+
+## Authors:
+- **A2SV** The problems were created by A2SV, who crafted a balanced and engaging contest to test a wide range of programming skills.
 
 Good luck, and happy coding! 🚀
+
+---
+
