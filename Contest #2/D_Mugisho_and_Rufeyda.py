@@ -1,16 +1,16 @@
 n, t = map(int, input().split())
-
-start = 10 ** (n - 1)
+ 
+x0 = 10 ** (n - 1)
 # Largest n-digit number
-end = 10**n - 1
-
+X = 10**n - 1
+ 
 # Find the smallest n-digit number divisible by t
-if start % t == 0:
-    print(start)
+if x0 % t == 0:
+    print(x0)
 else:
     # Calculate the next number divisible by t
-    candidate = start + (t - (start % t))
-    if candidate <= end:
-        print(candidate)
+    y = x0 + (t - (x0 % t))
+    if y <= X:
+        print(y)
     else:
         print(-1)
